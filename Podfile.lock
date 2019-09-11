@@ -1,0 +1,37 @@
+PODS:
+  - Cosmos (18.0.1)
+  - GoogleMaps (3.0.3):
+    - GoogleMaps/Maps (= 3.0.3)
+  - GoogleMaps/Base (3.0.3)
+  - GoogleMaps/Maps (3.0.3):
+    - GoogleMaps/Base
+  - GooglePlaces (3.0.3):
+    - GoogleMaps/Base (= 3.0.3)
+  - Kingfisher (5.2.0)
+  - ReadMoreTextView (3.0.1)
+
+DEPENDENCIES:
+  - Cosmos
+  - GoogleMaps
+  - GooglePlaces
+  - Kingfisher
+  - ReadMoreTextView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Cosmos
+    - GoogleMaps
+    - GooglePlaces
+    - Kingfisher
+    - ReadMoreTextView
+
+SPEC CHECKSUMS:
+  Cosmos: 7dfaa3f52584ca5f94ab74b5c2e264019cc9f7f5
+  GoogleMaps: fd5c9fa58871781b9fb94d4936f19c69fe60ce32
+  GooglePlaces: f09e76993c9c3ee4af8f4f7f535bb94d6aa3b649
+  Kingfisher: 07067cfacf371117330dceb4b4b8f5c4b691ab42
+  ReadMoreTextView: 19147adf93abce6d7271e14031a00303fe28720d
+
+PODFILE CHECKSUM: 1919dff5022cfe11f3b94e1fc4550bc7547f790a
+
+COCOAPODS: 1.6.1
